@@ -1,0 +1,17 @@
+{
+   "name": "mbaas-tutorial",
+   "title-ja": "Nifty mBaaSチュートリアル",
+   "title-en": "Nifty mBaaS Tutorial",
+   "description-ja": "NIFTY Cloud mobile backend のチュートリアル",
+   "description-en": "Tutorial for NIFTY Cloud mobile backend",
+   "category": "Sample App",
+   "platform": ["ios", "android"],
+   "num_screenshots": 0,
+   "preview_url": "https://monaca.github.io/project-templates/98-mbaas/www/index.html",
+   "framework_version": "3.5",
+   "cordova_version": "4.1",
+   "plugins": [
+      "mobi.monaca.plugins.Monaca",
+      "org.apache.cordova.splashscreen"
+   ]
+}
