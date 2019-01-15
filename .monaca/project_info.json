@@ -9,5 +9,5 @@
         "cordova-plugin-splashscreen@4.0.3",
         "cordova-custom-config@2.0.3"
     ],
-    "xcode_version": "8"
+    "xcode_version": "10.1"
 }
